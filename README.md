@@ -4,3 +4,8 @@ ESP8266 Başlarken/Kurulum (...NodeMCU...)
 
 Merhabalar kolay gelsin bu sayfada ilk kez ESP8266 modülü ile karşılaşmış ne yapması gerektiğini bilmeyenlere yardımcı olmaya çalışıcam.
 Lafı fazla uzatmak istemiyorum son birkaç birşey ekleyip ESP8266 modülüne geçicem özellikle NodeMCU modülüne.Öncelikle burdaki amacım birşeyler yazarken öğrenmeyi ve yardımcı olmak o yüzden geri bildirimlerinizi bekliyorum teşekkürler kolay gelsin.
+
+
+### _**266 Başlarken/Kurulum (...Node**_
+
+> 266 Başlarken/Kurulum (...Node
