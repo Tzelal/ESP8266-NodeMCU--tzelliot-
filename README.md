@@ -16,3 +16,10 @@ Arduino uygulamanızı indirirken aşağıdaki resimde benim de yaptığım gibi
 
 
 ![Arduino Setup](https://user-images.githubusercontent.com/36787074/54087997-13d79280-436a-11e9-94a0-47ca9f5296cf.PNG)
+
+
+.............İKİNCİ ADIM...............
+
+
+Şimdi...Arduino programını çalıştırınca yukarıda Files var orada Prefereneces'e tıklıyoruz.Aynen aşağıdaki olduğu gibi.
+
