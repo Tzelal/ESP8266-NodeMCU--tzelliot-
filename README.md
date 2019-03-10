@@ -23,3 +23,11 @@ Arduino uygulamanızı indirirken aşağıdaki resimde benim de yaptığım gibi
 
 Şimdi...Arduino programını çalıştırınca yukarıda Files var orada Prefereneces'e tıklıyoruz.Aynen aşağıdaki olduğu gibi.
 
+
+![Arduino Preferences](https://user-images.githubusercontent.com/36787074/54088602-c6125880-4370-11e9-8a86-674c3e73e82c.PNG)
+
+Önümüze çıkan Preferences penceresinde aşağıda "Additional Boards Manager URLs" yazan yere aşağıda yazacağım URL'yi kopyalayıp yapıştır.
+
+*http://arduino.esp8266.com/stable/package_esp8266com_index.json*
+
+
