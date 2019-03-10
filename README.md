@@ -28,6 +28,6 @@ Arduino uygulamanızı indirirken aşağıdaki resimde benim de yaptığım gibi
 
 Önümüze çıkan Preferences penceresinde aşağıda "Additional Boards Manager URLs" yazan yere aşağıda yazacağım URL'yi kopyalayıp yapıştır.
 
-*http://arduino.esp8266.com/stable/package_esp8266com_index.json*
+>*http://arduino.esp8266.com/stable/package_esp8266com_index.json*
 
 
