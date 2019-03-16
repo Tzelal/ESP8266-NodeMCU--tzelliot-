@@ -1,6 +1,6 @@
-### ESP8266-tzelliot-
-**ESP8266 Başlarken/Kurulum (...NodeMCU...)**
-
+<h1 align="center">ESP8266-tzelliot-</h1>
+<h2 align="center">ESP8266 Başlarken/Kurulum (...NodeMCU...)<h2>
+<hr size="3" width="%100">
 <p align="center"><img src="GitHUB%20Resim/NODE-MCU.jpg" width="550"></p>
 
 
@@ -9,8 +9,8 @@ Lafı fazla uzatmak istemiyorum son birkaç birşey ekleyip ESP8266 modülüne g
 
 
 
-**..............İLK ADIM..................**
-
+<h3 align="center">..............İLK ADIM..................</h3>
+<hr size="3" width="%100">
 
 
 Arduino uygulamasının güncel olduğuna dikkat et.Güncel olmayınca yeni uygulamalarda/projelerde hatalarla karşılaşabilirsin.
@@ -24,8 +24,8 @@ Arduino uygulamasını indirirken aşağıdaki resimde benim de yaptığım gibi
 
 
 
-**.............İKİNCİ ADIM...............**
-
+<h3 align="center">.............İKİNCİ ADIM...............</h3>
+<hr size="3" width="%100">
 
 
 Şimdi...Arduino programını çalıştırınca yukarıda Files var orada Prefereneces'e tıklıyoruz.Aynen aşağıdaki olduğu gibi.
@@ -45,8 +45,8 @@ Yapman gereken işlem hemen üstteki resimde olduğu gibi.Üstteki URL'yi kopyal
 
 
 
-**............ÜÇÜNCÜ ADIM..............**
-
+<h3 align="center">............ÜÇÜNCÜ ADIM..............</h3>
+<hr size="3" width="%100">
 
 
 Bu adımla birlikte Arduino uygulaması ESP8266 (NODEMCU) modülünü artık tanımaya başlıycak.Özetle modüle artık kod yükleyip çalıştırabilicez.Onun için ise önce aşağıdaki resimde olduğu gibi uygulamanın "Boards Manager" kısmına gitmemiz gerek.
@@ -71,7 +71,8 @@ Dikkatini çekmiş olabilir.Orada iki tane NodeMCU seçeneği var.Genel olarak p
 
 >### Okuduğun için teşekkür ediyorum.Umarım yardımcı olabilmişimdir.Her türlü geri bildirime açığım umarım katkılarını esirgemezsin.Projelerinde Kolay Gelsim :D ......
 
->**03/10/2019**
+<hr size="3" width="%100">
+<h4 align="right">03/10/2019</h4>
 
 
 
