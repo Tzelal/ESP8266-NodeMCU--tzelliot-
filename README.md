@@ -1,5 +1,5 @@
 <h1 align="center">ESP8266-tzelliot-</h1>
-<h2 align="center">ESP8266 Başlarken/Kurulum (...NodeMCU...)<h2>
+<h2 align="center">ESP8266 Başlarken/Kurulum (...NodeMCU...)</h2>
 <hr size="3" width="%100">
 <p align="center"><img src="GitHUB%20Resim/NODE-MCU.jpg" width="550"></p>
 
