@@ -69,7 +69,7 @@ Dikkatini çekmiş olabilir.Orada iki tane NodeMCU seçeneği var.Genel olarak p
 
 İngilizce kaynak : [esp8266/Arduino](https://github.com/esp8266/Arduino/issues)
 
->### Okuduğun için teşekkür ediyorum.Umarım yardımcı olabilmişimdir.Her türlü geri bildirime açığım umarım katkılarını esirgemezsin.Projelerinde Kolay Gelsim :D ......
+>### Okuduğun için teşekkür ediyorum.Umarım yardımcı olabilmişimdir.Her türlü geri bildirime açığım umarım katkılarını esirgemezsin.Projelerinde Kolay Gelsin :D ......
 
 <hr size="3" width="%100">
 <h4 align="right">03/10/2019</h4>
